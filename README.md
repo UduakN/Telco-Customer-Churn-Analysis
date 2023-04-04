@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/128192166/229649596-33082fd4-bfac-4d5b-b960-23a1721b6958.png)
 
 # Introduction
-No company want to experience churn but most of the time its inevitable. Churn is the percentage of customers that stop using your business during a given time frame. Telco is a telecommunication company that provides both Phone and internet services. Telco company experienced high rate of churned customers in the previous month.  Before a customer retention can be developed, all the relevant customer data are analyzed to determine which could have caused the high churned rate.
+No company wants to experience churn, but it is usually inevitable. Churn is the percentage of customers that stop using your business during a given time frame. Telco is a telecommunication company that provides both Phone and internet services. Telco company experienced a high rate of churned customers in the previous month. Before customer retention can be developed, all the relevant customer data are analyzed to determine what could have caused the high churn rate.
 
 # About the dataset
 The dataset was downloaded from Kaggle https://www.kaggle.com/datasets/blastchar/telco-customer-churn. It contained 21 columns and 7043 rows. The columns contained;
@@ -33,17 +33,17 @@ Further analysis revealed that most customers on month-to-month contract use ele
 
 # Suggestions on customer retention program based on analysis
 
-•	Offer long term contract
+•Offer long-term contract
 
-•	Improve on services
+• Improve services
 
-•	Offer incentives – It could be those on month-to-month are student
+• Offer incentives – It could be those on month-to-month are students
 
-•	Have a strong and dedicated customer service team – This team will build a relationship between the customer and business, they will also forward and followup on logged complains
+• Have a solid and dedicated customer service team – This team will build a relationship between the customer and business, they will also forward, and followup on logged complains
 
-•	Request for feedbacks after complains have been resolved
+• Request for feedback after complaints have been resolved
 
-•	Create video or voice tutorials on how to set up, how to resolve issues. This will reduce the call logs on the help line.
+• Create video or voice tutorials on how to set up and resolve issues. This will reduce the call logs on the helpline.
 
 
 Feel free to interreact with my dashboard https://1drv.ms/x/s!AsjxQAeMa_3zgQWONMx90Mit9ArC?e=PPmvf1
